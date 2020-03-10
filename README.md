@@ -1,6 +1,6 @@
-# flut_first
+# BasicList
 
-A new Flutter project.
+A new Flutter project. I have used http package to fetch fake image data and displayed it using ListView.
 
 ## Getting Started
 
